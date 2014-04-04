@@ -1,0 +1,21 @@
+body {
+	background-color: #ff0000;
+}
+
+div#content {
+	width: 100%;
+	margin-left: 0px;
+}
+
+#bodyContent {
+	position: relative;
+	width: 100%;
+}
+
+#testclass {
+	margin-left:0px;
+}
+
+.mw-body.aclass div {
+	color: red;
+}

@@ -1,0 +1,92 @@
+.main-icon-link {
+	padding: 0px !important; 
+	padding-top: 5px !important;
+	margin-left: 10px;
+	
+}
+
+.main-icon-image {
+	height: 50px;
+	width: 50px;
+}
+
+.search-bar-box {
+	width: 300px;
+	align: right;
+	margin-top: 9px;
+	margin-right: 10px;
+}
+
+.carousel-move-button {
+	font-size: 1000% !important;
+	height: 100%;
+	padding-top: 110px !important;
+}
+
+.article-summary {
+	color: black;
+}
+
+html, body {
+	height: 100%;
+}
+
+html {
+	/*position: relative;
+	min-height:100%;*/
+}
+
+* {
+	margin: 0;
+}
+
+.page-wrap {
+	min-height: 100%;
+	margin-bottom: -60px;
+}
+
+.page-wrap:after {
+	content: "";
+	display: block;
+}
+
+.site-footer, .page-wrap:after {
+	height: 60px;
+}
+
+.site-footer {
+	margin-bottom: 0px;
+}
+
+.article-container {
+	max-width: 940px;
+	margin: 43px auto 43px auto;
+}
+
+
+.article-container-grid-container {
+	clear: both;
+}
+
+.billboard-article {
+	height: 480px;
+	background-size: cover;
+	box-shadow: black 0px 0px 8px 0px inset;
+	background-position: 50% 50%;
+}
+
+.lessons-container {
+	/*display: table;*/
+	margin-top: 37px;
+}
+
+.lessons-container-row {
+	display: table-row;
+}
+
+/*span.article-summary > a:link,
+pan.article-summary > a:active,
+pan.article-summary > a:hover,
+pan.article-summary > a:visited {
+    color: black;
+}*/
